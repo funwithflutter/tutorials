@@ -2,5 +2,5 @@
 
 This is a demo application showing how to incorporate Firebase Authentication and Google Sign in for a Flutter Web application.
 
-The video tutorial is available here:
-[Video Tutorial](https://youtu.be/0HLt1TYA600)
+Video Tutorial: https://youtu.be/0HLt1TYA600
+Written Tutorial: https://levelup.gitconnected.com/using-firebase-in-flutter-web-4b99952180aa
