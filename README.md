@@ -12,6 +12,10 @@ You need to run the following command in the relevant project folder to generate
 flutter create .
 ```
 
-## Tutorial
+## Packages by FunWithFlutter
+
+https://pub.dev/publishers/funwith.app/packages
+
+## Tutorials
 
 **001 - Flutter Web Firebase Auth and Google Sign in** \[ [Video](https://youtu.be/0HLt1TYA600) \] \[ [Written](https://levelup.gitconnected.com/using-firebase-in-flutter-web-4b99952180aa) \] - A step by step guide showing how to incorporate Firebase Authentication and Google Sign in for a Flutter Web application. Beginner friendly.
