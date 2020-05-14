@@ -2,7 +2,7 @@
 
 This repo contains the source code for the tutorials on the [FunWithFlutter](https://www.youtube.com/funwithflutter) YouTube channel.
 
-For in depth Flutter courses, check out https://coures.funwith.app
+For in depth Flutter courses, check out https://courses.funwith.app
 
 ## Important
 
